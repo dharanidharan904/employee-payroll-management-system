@@ -88,6 +88,22 @@ http://localhost:3000
 
 ![Payroll Management](screenshots/payroll.png)
 
+### Leave appy portal
+
+![Leave apply portal](screenshots/leave.png)
+
+### Payslip management
+
+![Pay-slip](screenshots/payslip.png)
+
+### Payslip-copy
+
+![payslip-copy](screenshots/payslip-copy.png)
+
+### format
+
+![Format](screenshots/download-payslip.png)
+
 ##  Developer
 
 Dharanidharan
