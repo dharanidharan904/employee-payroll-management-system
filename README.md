@@ -84,6 +84,10 @@ http://localhost:3000
 
 ![Employee Management](screenshots/employees.png)
 
+### Attendence Management
+
+![Attendence](screenshots/attendence.png)
+
 ### Payroll Management
 
 ![Payroll Management](screenshots/payroll.png)
